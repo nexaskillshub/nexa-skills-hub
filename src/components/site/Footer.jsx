@@ -33,7 +33,7 @@ const columns = [
 ];
 const socials = [
     { icon: Linkedin, label: "LinkedIn", link: "https://www.linkedin.com/company/nexa-skills-hub" },
-    { icon: Instagram, label: "Instagram", link: "https://www.instagram.com/nexa_skills_hub" },
+    { icon: Instagram, label: "Instagram", link: "https://www.instagram.com/nexaskillshub" },
     { icon: Facebook, label: "Facebook", link: "https://www.facebook.com/share/14mKriXiLEa/" },
 ];
 export function Footer() {
